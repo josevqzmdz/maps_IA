@@ -1,0 +1,11 @@
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\bin\Debug\maps_IA.exe.config
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\bin\Debug\maps_IA.exe
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\bin\Debug\maps_IA.pdb
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\obj\Debug\maps_IA.csproj.AssemblyReference.cache
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\obj\Debug\maps_IA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\obj\Debug\maps_IA.Form1.resources
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\obj\Debug\maps_IA.Properties.Resources.resources
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\obj\Debug\maps_IA.csproj.GenerateResource.cache
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\obj\Debug\maps_IA.csproj.CoreCompileInputs.cache
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\obj\Debug\maps_IA.exe
+C:\Users\Jose Miguel\Documents\9o\Inteligencia artificial\2o_parcial\maps_IA\maps_IA\obj\Debug\maps_IA.pdb
